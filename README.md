@@ -1,4 +1,4 @@
-# Bienvenidos a la página principal de la aplicación
+# Bienvenidos al README principal de la aplicación
 
 ## Requisitos previos
 
