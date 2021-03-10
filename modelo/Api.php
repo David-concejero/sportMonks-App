@@ -1,7 +1,7 @@
 <?php
 
 	class api{
-		private static $apiKey = "#vuestra Apikey";
+		private static $apiKey = "API KEY HERE!!!";
 		private static $url_jugador_nombre = "https://soccer.sportmonks.com/api/v2.0/players/search/";
 		private static $url_jugador_id = "https://soccer.sportmonks.com/api/v2.0/players/";
 		private static $url_equipo_nombre = "https://soccer.sportmonks.com/api/v2.0/teams/search/";
@@ -52,6 +52,6 @@
 			$data = json_decode(file_get_contents(self::$url_pais.$id_pais."?"."api_token=".self::$apiKey), true );
 			return $data;
 		}
-		
+
 	}
 ?>

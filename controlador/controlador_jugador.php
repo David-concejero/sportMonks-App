@@ -1,4 +1,4 @@
-<?php 
+<?php
 require_once("../modelo/Api.php");
 if(isset($_POST["boton_volver_menu"])){
   header("location: /app/index.php");
@@ -53,6 +53,6 @@ if(isset($_POST["boton_volver_menu"])){
       require_once("../vista/mostrar_perfilCompleto.php"); ?>
     </div>
 </div>
-</div> 
+</div>
 </body>
 </html>
