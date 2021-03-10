@@ -4,7 +4,7 @@ Esta trabajo se ha desarrollado con el objetivo de utilizar una api para desarro
 
 Además se ha construido una pequeña interfaz de usuario utilizando php y boostrap.
 
-![Imagen del proyecto](https://imgur.com/t6N5lx3)
+![Imagen del proyecto](https://i.imgur.com/t6N5lx3.png)
 
 # Requisitos uso de proyecto
 
